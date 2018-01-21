@@ -25,7 +25,7 @@ $(window).load(function(){
   }
 
   adjustViewport();
-  adjustPageBackground()();
+  adjustPageBackground();
 
   $(window).resize(function(){
     windowHeight = $(window).height();

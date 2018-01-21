@@ -160,7 +160,6 @@ a:hover {
 .hd-logo {
   text-align: center;
   padding-top: 15px;
-  padding-bottom: 15px;
   margin-left: 15px;
   width: 100px;
 }
@@ -173,7 +172,6 @@ a:hover {
     width: 170px;
     margin-left: 40px;
     padding-top: 35px;
-    padding-bottom: 35px;
   }
   .hd-logo img {
     width: 89px;
@@ -183,7 +181,6 @@ a:hover {
   .hd-logo {
     width: 220px;
     padding-top: 25px;
-    padding-bottom: 25px;
   }
   .hd-logo img {
     width: 150px;

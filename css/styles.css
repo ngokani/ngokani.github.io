@@ -527,6 +527,9 @@ a:hover {
   .page-background {
     background-position-x: 22%;
   }
+  .hd-logo {
+	  padding-bottom: 15px;
+  }
 }
 @media (min-width:992px) {
   .page-background {
@@ -871,6 +874,9 @@ p {
 @media (min-width: 240px) and (max-width: 719px) {
   .gift-list .where-to-find {
     padding-left: 2px !important;
+  }
+  .hd-logo {
+	  padding-bottom: 15px;
   }
 }
 .gift-list a {

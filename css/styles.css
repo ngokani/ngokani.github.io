@@ -425,7 +425,7 @@ a:hover {
     display: block;
     margin-top: 24px;
     font-weight: 200;
-    margin-top: 35px;
+    margin-top: 30px;
   }
 }
 @media (min-width: 1200px) {
@@ -512,6 +512,9 @@ a:hover {
   background-size: cover;
   z-index: 1;
   width: 100%;
+}
+.text-muted-subtitle {
+  font-size:14px;
 }
 @media (min-width: 240px) and (max-width: 719px) {
   .page-background {
@@ -1178,7 +1181,7 @@ iframe {
 }
 .timeline-title {
   font-family: 'GreatVibes-Regular', cursive;
-  font-size: 22px;
+  font-size: 28px;
   margin-top: 0;
   color: inherit;
   border-bottom: 1px dashed #bc7571;
@@ -1188,7 +1191,7 @@ iframe {
 .timeline-body > ul {
   margin-bottom: 0;
   color: #bc7571;
-  font-size: 12px;
+  font-size: 14px;
 }
 .timeline-body > p + p {
   margin-top: 5px;

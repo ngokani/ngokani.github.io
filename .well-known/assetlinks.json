@@ -3,6 +3,8 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "StarlingTopUp.StarlingTopUp"
+    "package_name": "StarlingTopUp.StarlingTopUp",
+    "sha256_cert_fingerprints": ["96:01:5C:7E:FF:C2:19:DB:D5:64:CB:C1:FF:74:57:91:2A:F0:C7:55:B0:AC:1C:B0:AD:A3:C9:04:15:84:B1:AA
+"]
   }
 }]
